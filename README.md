@@ -1,5 +1,15 @@
-# Week-1-Project
+# Horiseon Webpage
+A webpage showing the perks of using horiseon.
+Showing how Horiseon will help:
+    Search Engine Optimization
+    Online reputation Management
+    Social Media Marketing
+        By Using:
+        Lead Generation
+        Brand Awareness
+        and Cost Management
 
+        
 ## User Story
 AS A marketing agency
 
